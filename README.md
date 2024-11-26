@@ -29,4 +29,4 @@
 ---
 
 ## Описание, как запустить ваш проект  
-1. Склонируйте репозиторий с проектом:
+1. (https://github.com/Yokanke/Mediasoft-Practice/tree/main)
