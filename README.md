@@ -24,4 +24,4 @@ https://github.com/Yokanke/Mediasoft-Practice
 ```
 Mediasoft-Practice
 ```
-3. Откройте файл index.html в браузере.
+3. Откройте файл Сайт.html в браузере.
